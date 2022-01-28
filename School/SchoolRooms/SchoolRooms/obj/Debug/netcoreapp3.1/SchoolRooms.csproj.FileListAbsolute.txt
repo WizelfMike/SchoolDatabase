@@ -1,0 +1,13 @@
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\bin\Debug\netcoreapp3.1\SchoolRooms.exe
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\bin\Debug\netcoreapp3.1\SchoolRooms.deps.json
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\bin\Debug\netcoreapp3.1\SchoolRooms.runtimeconfig.json
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\bin\Debug\netcoreapp3.1\SchoolRooms.runtimeconfig.dev.json
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\bin\Debug\netcoreapp3.1\SchoolRooms.dll
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\bin\Debug\netcoreapp3.1\SchoolRooms.pdb
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\obj\Debug\netcoreapp3.1\SchoolRooms.csprojAssemblyReference.cache
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\obj\Debug\netcoreapp3.1\SchoolRooms.AssemblyInfoInputs.cache
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\obj\Debug\netcoreapp3.1\SchoolRooms.AssemblyInfo.cs
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\obj\Debug\netcoreapp3.1\SchoolRooms.csproj.CoreCompileInputs.cache
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\obj\Debug\netcoreapp3.1\SchoolRooms.dll
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\obj\Debug\netcoreapp3.1\SchoolRooms.pdb
+C:\Users\mikey\Documents\Ma\Bewijzenmap\X 2\Y 2 (Vertical Slice)\Prog\Databases\School\SchoolRooms\SchoolRooms\obj\Debug\netcoreapp3.1\SchoolRooms.genruntimeconfig.cache
